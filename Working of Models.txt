@@ -1,0 +1,7 @@
+The functionality of the "PDF_Resume Summariser.ipynb" file involves receiving the file path of a resume in PDF format from the local machine. Upon execution, this algorithm generates a concise summary of the resume content in text format.
+
+The "Resume Screening(ATS).ipynb" file operates by analyzing key elements within resumes. It incorporates a list of blacklisted terms, which if identified in the summary, result in the rejection of the resume. Additionally, input keywords are utilized to filter and shortlist resumes. Resumes containing these specific keywords are prioritized for consideration.
+
+Furthermore, the ATS evaluates the summary of the resume to calculate its suitability based on predetermined criteria. 
+
+Detailed explanations regarding the functionality of these models are available in the accompanying "Readme.md" file.
